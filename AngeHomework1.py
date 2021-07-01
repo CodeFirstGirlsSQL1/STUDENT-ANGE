@@ -1,5 +1,7 @@
-print ("hello")
+print("hello")
 
 print('goodbye')
 
-print ('hello again')
+print('hello again')
+
+print("hi")
